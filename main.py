@@ -24,7 +24,7 @@ for index , person in enumerate(names_of_characters):
         max_name=person['name']
 print(max_name)
 
-Задание 2
+# Задание 2
 class YaUploader:
     def __init__(self, token: str):
         self.token = token
